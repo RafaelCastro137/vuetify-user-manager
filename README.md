@@ -1,5 +1,9 @@
 # 👤 Vuetify User Manager
 
+
+![Demonstração do projeto](./assets/demo.gif)
+
+
 ## 🌟 Recursos
 ✅ CRUD Completo
 ✅ Interface Material Design
@@ -21,3 +25,4 @@
 
 ## 📜 Licença
 MIT
+
